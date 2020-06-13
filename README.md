@@ -14,8 +14,8 @@ Before leaving the house, user can start recording the video and check it out wh
 ## How to Use It ?
 
 Make directory in /home/pi named picam, where all the videos and images will be stored. Before leaving the house, run python programmes according to the time that you will be out for.
-> $mkdir /home/pi/picam
-> $python cctvFor(user_choice).py or
+> $mkdir /home/pi/picam</br>
+> $python cctvFor(user_choice).py or</br>
 > $python picam.py
 
 ## Further Development

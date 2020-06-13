@@ -26,4 +26,4 @@ Curretly, picam.py is used when user wants to capture image when theire is motio
 you can contact 21700372@handong.edu
 
 ## Video Link
-
+https://youtu.be/6-60YrZkJPU

@@ -21,6 +21,10 @@ Make directory in /home/pi named picam, where all the videos and images will be 
 ## Further Development
 Curretly, picam.py is used when user wants to capture image when theire is motion detected in camera. I want to impliment it and also use face recognition.
 
+## References
+I took help from raspberrypi.org
+https://projects.raspberrypi.org/en/projects/getting-started-with-picamera
+
 ## For More Help
 
 you can contact 21700372@handong.edu
